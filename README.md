@@ -6,6 +6,7 @@ npm install
 npm run dev
 
 localhost:3001  = typical form to insert lead
-localhost:3001/chat = this is where you can chat with our bot using socket.io
+localhost:3001/admin  = view all leads collected
+localhost:3001/chat = this is where you can chat with our bot using socket.io to insert a new lead
 localhost:3001/bots/slack/events = slack events api callback endpoint
 ```
