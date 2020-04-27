@@ -1,4 +1,4 @@
-var cacheName = 'bots-leadgen';
+var cacheName = 'chatbot';
 var filesToCache = [
   '/js/*',
   '/css/*'
