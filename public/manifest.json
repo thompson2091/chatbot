@@ -1,0 +1,9 @@
+{
+  "name": "chatbot",
+  "short_name": "chatbot",
+  "start_url": "/",
+  "gcm_sender_id": "103953800507",
+  "display": "standalone",
+  "background_color": "#EEEEEE",
+  "theme_color": "#000000"
+}
